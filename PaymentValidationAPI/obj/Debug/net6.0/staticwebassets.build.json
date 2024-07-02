@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cmMh7P05qRwa0CTLhxq4DAwOd03HkIXYJxqN3faO7RY=",
+  "Source": "PaymentValidationAPI",
+  "BasePath": "_content/PaymentValidationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
